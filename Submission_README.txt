@@ -21,7 +21,7 @@ The "outputs" Directory has four separate visualisation without any code, and th
 
 *********** TO RUN CODE AND INTERACT WITH LARGE SIZED VISUALISATION ***********
 
-To run the code and then see the visualisation, follow the below instruction. The prerequisite for this method of run is Python 3.
+To run the code and then see the visualisation, follow the below instruction. The prerequisite for this method of run is PYTHON 3.
 
 !!!!IMPORTANT- FOR RELATIVE PATH TO WORK!!!!!
 1. CHANGE DIRECTORY OF TERMINAL INTO PROJECT DIRECTORY (WORKING DIRECTORY)
