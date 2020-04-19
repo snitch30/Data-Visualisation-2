@@ -16,7 +16,7 @@ There are three ways of going through the visualisation.
 - #### TO RUN CODE AND INTERACT WITH LARGE SIZED VISUALISATION
 
 To run the code and then see the visualisation, follow the below instructions.
-The prerequisite for this method of run is **Python3**.
+The prerequisite for this run is **Python3**.
 
 ***STEP 1 IS IMPORTANT- FOR RELATIVE PATH TO WORK***
 1. CHANGE DIRECTORY OF TERMINAL INTO PROJECT DIRECTORY (WORKING DIRECTORY)
