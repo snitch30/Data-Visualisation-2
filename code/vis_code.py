@@ -199,7 +199,7 @@ fig4.show()
 
 #Save all visualisations as HTML files
 fig.write_html(opath+"vis1.html")
-fig2.write_html(opath+"vis2.html")
-fig3.write_html(opath+"vis3.html")
-fig4.write_html(opath+"vis4.html")
+fig2.write_html(opath+"vis3.html")
+fig3.write_html(opath+"vis4.html")
+fig4.write_html(opath+"vis2.html")
 print('Outputs are opened in Browser and also store in output directory.')
