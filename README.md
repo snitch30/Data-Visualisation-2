@@ -15,7 +15,7 @@ These hypotheses are what the readers of this visualisation can expect to find a
 3. How fast did the cases in top 10 countries with highest confirmed cases? 
 4. How fast the cases increased with the respect to increase in deaths?
 
-All of these hypotheses are answered in the visualisation, with data as of 07-April-2020. First two hypoth- esis hopes to let the readers know the regions to be careful in. The next hypothesis hopes the reader to understand the speed and nature of the outbreak with respect to confirmed cases and deaths.
+All of these hypotheses are answered in the visualisation, with data as of 07-April-2020. First two hypothesis hopes to let the readers know the regions to be careful in. The next hypothesis hopes the reader to understand the speed and nature of the outbreak with respect to confirmed cases and deaths.
 
 ## Dataset
 
